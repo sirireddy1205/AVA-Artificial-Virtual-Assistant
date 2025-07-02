@@ -10,8 +10,7 @@ __pycache__/
 *.pyo
 
 # 🚫 Virtual environment
-.venv/
-venv/
+
 env/
 ENV/
 *.egg-info/
